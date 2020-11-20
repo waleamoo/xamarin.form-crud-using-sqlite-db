@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1B5894F3-3A67-46A5-BAF9-8F94D1358BF4}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="UsingSQLite/Persistence/ISQLiteDb.cs" Line="4" Column="1" />
+      <File FileName="UsingSQLite/MainPage.xaml.cs" Line="8" Column="1" />
+      <File FileName="UsingSQLite.Android/Persistence/SQLiteDb.cs" />
+      <File FileName="UsingSQLite.iOS/Persistence/SQLiteDb.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UsingSQLite" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UsingSQLite.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UsingSQLite.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+</Properties>

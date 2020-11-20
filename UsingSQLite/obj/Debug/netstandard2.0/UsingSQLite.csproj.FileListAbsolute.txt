@@ -1,0 +1,14 @@
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/bin/Debug/netstandard2.0/UsingSQLite.deps.json
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/bin/Debug/netstandard2.0/UsingSQLite.dll
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/bin/Debug/netstandard2.0/ref/UsingSQLite.dll
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/bin/Debug/netstandard2.0/UsingSQLite.pdb
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/UsingSQLite.csprojAssemblyReference.cache
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/UsingSQLite.AssemblyInfoInputs.cache
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/UsingSQLite.AssemblyInfo.cs
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/UsingSQLite.csproj.CoreCompileInputs.cache
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/UsingSQLite.dll
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/ref/UsingSQLite.dll
+/Users/olawale/Projects/UsingSQLite/UsingSQLite/obj/Debug/netstandard2.0/UsingSQLite.pdb
